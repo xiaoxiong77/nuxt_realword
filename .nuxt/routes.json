@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "/work/amy_study/nuxt_realword/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/work/amy_study/nuxt_realword/pages/home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/work/amy_study/nuxt_realword/pages/login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/work/amy_study/nuxt_realword/pages/login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/work/amy_study/nuxt_realword/pages/profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/work/amy_study/nuxt_realword/pages/settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/work/amy_study/nuxt_realword/pages/editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/work/amy_study/nuxt_realword/pages/article"
+      }
+    ]
+  }
+]
