@@ -1,43 +1,51 @@
 [
   {
     "path": "/",
-    "component": "/work/amy_study/nuxt_realword/pages/layout",
+    "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "/work/amy_study/nuxt_realword/pages/home"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\home",
+        "_name": "_613ed2f6"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/work/amy_study/nuxt_realword/pages/login"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\login",
+        "_name": "_1cea8283"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/work/amy_study/nuxt_realword/pages/login"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\login",
+        "_name": "_1cea8283"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/work/amy_study/nuxt_realword/pages/profile"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\profile",
+        "_name": "_657abe43"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/work/amy_study/nuxt_realword/pages/settings"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\settings",
+        "_name": "_49c5ca6e"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/work/amy_study/nuxt_realword/pages/editor"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\editor",
+        "_name": "_73d9f193"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/work/amy_study/nuxt_realword/pages/article"
+        "component": "D:\\\\小熊-myself\\\\DailyLearning\\\\nuxt_demo\\\\nuxt_realword\\\\pages\\\\article",
+        "_name": "_4c450190"
       }
-    ]
+    ],
+    "_name": "_7fa8cb50"
   }
 ]
